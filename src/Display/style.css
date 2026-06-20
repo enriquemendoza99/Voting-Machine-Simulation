@@ -1,0 +1,13 @@
+
+.button {
+    -fx-font-size: 18px;
+}
+
+.button:focused {
+    -fx-focus-color: transparent;
+    -fx-faint-focus-color: transparent;
+}
+
+.button:pressed {
+    -fx-background-color: #d6bf3c;
+}
